@@ -10,7 +10,7 @@ http://imgur.com/a/Noe9S
 ### Video:
 https://www.youtube.com/watch?v=8hfF0LrXyi8
 
-### Flaws
+### Issues
 
 The current vehicle was designed quickly over a few weekends as a proof of concept, and so it has many flaws. A short list:
 The right angle mounting of the motor creates a week point with the bevel gears.
@@ -21,7 +21,6 @@ There is no hole in the body shell for a power switch, so without modification t
 After agressive driving the motor gets hot and eventually wiggles in its mount.
 
 Despite these flaws, the car is impressibly capable. It can even pull ten foot wheelies.
-
 
 ### Assembly notes
 
