@@ -10,6 +10,13 @@ http://imgur.com/a/Noe9S
 ### Video:
 https://www.youtube.com/watch?v=8hfF0LrXyi8
 
+### Scout is in the news!
+http://makezine.com/2015/03/12/3d-print-this-kickass-snap-together-rc-race-car/
+http://blog.atmel.com/2015/03/12/scout-is-a-3d-printable-flutter-based-rc-car/
+
+### Wireless Platform
+For more info on Scout's recommended wireless platform, check out FlutterWireless.com
+
 ### Issues
 
 The current vehicle was designed quickly over a few weekends as a proof of concept, and so it has many flaws. A short list:
@@ -24,9 +31,9 @@ Despite these flaws, the car is impressibly capable. It can even pull ten foot w
 
 ### Assembly notes
 
-The wheels currently press on. If you cannot get them to fit, scale the wheel up by a few percent. You may have to glue them in the end. If they are loose, you may want to use super glue.
+The wheels currently press on. If you cannot get them to fit, scale the wheel up by a few percent. If they are loose, you may want to use super glue.
 
-The rear axle should be 100% infill for strength. Everything else can generally be 20%-20% infill.
+The rear axle should be 100% infill for strength. Everything else can generally be 15%-30% infill (Cura calculations, other slicers may vary).
 
 I mention using a Flutter radio to promote the product, but you can also use any normal remote control car radio, though steering may be backwards.
 
