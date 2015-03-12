@@ -15,7 +15,7 @@ http://makezine.com/2015/03/12/3d-print-this-kickass-snap-together-rc-race-car/
 http://blog.atmel.com/2015/03/12/scout-is-a-3d-printable-flutter-based-rc-car/
 
 ### Wireless Platform
-For more info on Scout's recommended wireless platform, check out FlutterWireless.com
+For more info on Scout's recommended wireless platform, check out http://www.FlutterWireless.com
 
 ### Issues
 
