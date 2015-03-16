@@ -39,6 +39,10 @@ I mention using a Flutter radio to promote the product, but you can also use any
 
 Any standard servo works. Other quadcopter motors should work with changes to the gear placement, but this motor is incredibly strong even with a 2s battery.
 
+### Other notes
+Flutter Scout's gears use the "Solidworks Gear Generator" file from thingiverse user msruggles, found here:
+http://www.thingiverse.com/thing:8077
+No license accompanies the file, but I have reached out to the developer for explicit permission. It was however shared freely on an public site so this use is assumed permitted.
 
 ### License
 
