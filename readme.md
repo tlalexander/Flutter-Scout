@@ -37,6 +37,9 @@ The developer has given me permission to use the gear files in Scout.
 
 Scout was created in early 2015 by Taylor Alexander, and is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), which can be viewed at: http://creativecommons.org/licenses/by-sa/4.0/
 
+### Contact Info, press inquiries
+If you would like to help with Scout or have questions for a news article, please reach out to me via email. My email is the same as my github username, but at gmail.com
+
 
 ### Scout V1 in the news
 http://makezine.com/2015/03/12/3d-print-this-kickass-snap-together-rc-race-car/
